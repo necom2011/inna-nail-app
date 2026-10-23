@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "2.8.1",
-  "versionCode": 17,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.8.1/INNA-NAIL-MASTER.apk",
+  "version": "2.8.2",
+  "versionCode": 18,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.8.2/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "גרסה 2.8.1: גרסת השרת מוצגת ליד גרסת האפליקציה ומתחת לנורית החיבור",
-    "ru": "Версия 2.8.1: версия сервера рядом с версией приложения и под индикатором связи",
-    "en": "Version 2.8.1: server version next to the app version and under the connection light"
+    "he": "גרסה 2.8.2: חיפוש לקוחה רשומה ברשימת המתנה; הקשה על שורת לקוחה פותחת כרטיס, כפתורי חיוג ווטסאפ נפרדים",
+    "ru": "Версия 2.8.2: поиск клиентки в листе ожидания; нажатие на строку открывает карточку, отдельные кнопки звонка и WhatsApp",
+    "en": "Version 2.8.2: registered-client search in the waiting list; tapping a client row opens the card, separate call and WhatsApp buttons"
   },
-  "sha256": "d1e274cf0226d0ece2734f3e4ec435044931fe6dc2bae88d325462bfae4fe4a6",
+  "sha256": "69e4093cf16ccd072731ecf147ace6b2326a3d7ca72d8e9fd51a9b035c3402bb",
   "date": "2026-10-23",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
