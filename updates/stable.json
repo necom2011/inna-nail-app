@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "2.5.0",
-  "versionCode": 12,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.5.0/INNA-NAIL-MASTER.apk",
+  "version": "2.6.0",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.6.0/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "⭐ לקוחות קבועים, הרשאות צפייה/עריכה, יומן חי, נורית חיבור לשרת, קביעת תור מכרטיס לקוחה, הגדרות מפתח נעולות",
-    "ru": "⭐ Постоянные клиентки, права просмотр/редактирование, живой календарь, индикатор связи, запись из карточки клиентки, закрытые настройки разработчика",
-    "en": "⭐ Regular clients, view/edit roles, live calendar, server status light, book from client card, locked developer settings"
+    "he": "תזכורת עם היום/מחר/יום ותאריך נכונים, מניקור רגיל ופדיקור רפואי עם משכי זמן, הלוגו של העסק בכותרת",
+    "ru": "Напоминание с правильными сегодня/завтра/днём и датой, обычный маникюр и медицинский педикюр с длительностью, логотип в шапке",
+    "en": "Reminder says today/tomorrow/weekday+date correctly, regular manicure and medical pedicure with durations, business logo in header"
   },
-  "sha256": "f20fb19f2eb43110263d04163533c675d64699e014a71819b85d18d3ebd2e914",
+  "sha256": "371ce680d4ab51fb7aaaf4b106e20931310f2bff4b1d9dad9cf39c5bd8577bb7",
   "date": "2026-10-23",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
