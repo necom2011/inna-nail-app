@@ -1,11 +1,11 @@
 {
   "channel": "beta",
-  "version": "2.1.0",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.1.0/INNA-NAIL-MASTER.apk",
+  "version": "2.2.0",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.2.0/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "זמנים פנויים עד חצי שנה קדימה (שבוע / חודש / 3 חודשים / חצי שנה), קפיצה לתאריך, חודשים מתקפלים וטעינה מהירה; ניווט ביומן וקביעת תורים עד חצי שנה קדימה.",
-    "ru": "Свободное время на срок до полугода (неделя / месяц / 3 месяца / полгода), переход к дате, сворачиваемые месяцы и быстрая загрузка; навигация по календарю и запись до полугода вперёд."
+    "he": "כניסה עם טלפון וקוד גישה, כניסה מהירה בטביעת אצבע, בקשה לשינוי קוד",
+    "ru": "Вход по телефону и коду доступа, быстрый вход по отпечатку, запрос смены кода"
   },
   "date": "2026-10-23",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
