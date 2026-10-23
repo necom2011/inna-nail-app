@@ -1,12 +1,12 @@
 {
   "channel": "beta",
-  "version": "2.2.4",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.2.4/INNA-NAIL-MASTER.apk",
+  "version": "2.2.5",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.2.5/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "בורר שפה (עברית/Русский/English), אחסון משותף לכל השפות, סנכרון אוטומטי עם תור לא-מקוון, כפתור חיוג, קישור הוספה ליומן בתזכורת",
-    "ru": "Выбор языка (עברית/Русский/English), общее хранилище, автосинхронизация с офлайн-очередью, кнопка звонка, ссылка «добавить в календарь» в напоминании",
-    "en": "Language selector (Hebrew/Russian/English), shared storage, auto-sync with offline queue, call button, add-to-calendar link in reminders"
+    "he": "אחרי 2.2.4: התאמה לאנדרואיד 15 (מסך מלא/חריץ), טביעת אצבע עם גיבוי לקוד המכשיר, סנכרון מיידי ביציאה וחזרה, הסבר חיסכון סוללה",
+    "ru": "После 2.2.4: Android 15 (полный экран/вырез), отпечаток с запасным PIN устройства, синхронизация при выходе и возврате, подсказка по экономии батареи",
+    "en": "Since 2.2.4: Android 15 support (edge-to-edge/notch), fingerprint with device PIN fallback, sync on leave and return, battery-saver hint"
   },
   "date": "2026-10-23",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
