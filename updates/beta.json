@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.0.0",
-  "versionCode": 26,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.0.0/INNA-NAIL-MASTER.apk",
+  "version": "3.0.1",
+  "versionCode": 27,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.0.1/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "✨ גרסה 3.0.0 – עדכון חשוב, נא להתקין:\n• שעון חי עם שניות ליד התאריך בראש המסך\n• סרגל ניווט בשתי שורות – מרווח ונוח, וההגדרות עברו לסמל ⚙️ למעלה\n• התראה בטלפון כשיש גרסה חדשה (רק מחוץ לשעות העבודה)\n• עדכוני חובה – התראה דחופה עם צליל ורטט, גם בשעון החכם",
-    "ru": "✨ Версия 3.0.0 – важное обновление, установите его:\n• Живые часы с секундами рядом с датой вверху экрана\n• Нижняя панель в два ряда – просторнее, настройки перенесены в значок ⚙️ вверху\n• Уведомление о новой версии (только вне рабочего времени)\n• Обязательные обновления – срочное уведомление со звуком и вибрацией, в том числе на смарт-часах",
-    "en": "✨ Version 3.0.0 – important update, please install:\n• Live clock with seconds next to the date in the header\n• Two-row bottom navigation – roomier, Settings moved to the ⚙️ icon at the top\n• Phone notification when a new version is available (outside business hours only)\n• Mandatory updates – urgent notification with sound and vibration, also on smartwatches"
+    "he": "עדכון חשוב: הודעות מהמנהל ישירות לאפליקציה (התראה ✉️ הודעה מסטס), רשימת הודעות בהגדרות, התראות קצרות, הגנה מפני מחיקה המונית, ייבוא ממזג, רק הבעלים מוחקת",
+    "ru": "Важное обновление: сообщения от администратора прямо в приложении (уведомление ✉️ Сообщение от Стаса), список сообщений в настройках, короткие сигналы, защита от массового удаления, импорт с объединением, удалять может только владелица",
+    "en": "Important update: admin messages straight into the app (✉️ notification), message list in settings, short alert sounds, mass-delete protection, merge import, only the owner can delete"
   },
-  "sha256": "57c32f2209ae21d39e6002e31f63deaadb7d643d5a80b8278762f5c91731eff2",
+  "sha256": "171c6ea81a08fc2624f7219599c295c21817fd30903246d820a6785bcf312e32",
   "date": "2026-10-24",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
