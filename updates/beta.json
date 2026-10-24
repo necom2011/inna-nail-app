@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.2.0",
-  "versionCode": 38,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.2.0/INNA-NAIL-MASTER.apk",
+  "version": "3.2.1",
+  "versionCode": 39,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.2.1/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "גרסת בטא 3.2.0: מחירון בהגדרות, קוד לקוח ושליחה בוואטסאפ, בקשות לקוחות",
-    "ru": "Бета 3.2.0: прайс в настройках, код клиента и отправка в WhatsApp, заявки клиентов",
-    "en": "Beta 3.2.0: price list in settings, client code and WhatsApp send, client requests"
+    "he": "עריכת מחירון: לוחצים על בועה, מקלידים מחיר ושומרים",
+    "ru": "Прайс: нажмите на пузырёк, введите цену и сохраните",
+    "en": "Price list: tap a bubble, type the price, tap Save"
   },
-  "sha256": "e3522921b440fb85816910c9780056fc782b45f6db75ae21d3f745ed753c2a4e",
+  "sha256": "1dbf41b7ebd9ddfea958986d66364ae86bdcabc39d0d86aa347c7ed8e93226ab",
   "date": "2026-10-24",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
