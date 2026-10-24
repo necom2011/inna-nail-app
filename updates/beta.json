@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "2.8.6",
-  "versionCode": 22,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.8.6/INNA-NAIL-MASTER.apk",
+  "version": "2.8.7",
+  "versionCode": 23,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.8.7/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "בטא 2.8.6: מסך פתיחה מונפש (ניתן לכבות בהגדרות), בקשות לשיפור בהגדרות, ניטור מכשירים",
-    "ru": "Бета 2.8.6: анимированный экран приветствия (можно выключить в настройках), запросы на улучшение, контроль устройств",
-    "en": "Beta 2.8.6: animated welcome screen (can be turned off in Settings), improvement requests, device monitoring"
+    "he": "בטא 2.8.7: התראה בטלפון כשיש עדכון אפליקציה חדש (רק מחוץ לשעות העבודה, ניתן לכבות בהגדרות)",
+    "ru": "Бета 2.8.7: уведомление о новой версии приложения (только вне рабочего времени, можно выключить в настройках)",
+    "en": "Beta 2.8.7: phone notification when a new app version is available (outside business hours only, can be turned off in Settings)"
   },
-  "sha256": "9103aa518866507d6713f6cdb58c6960e3743f65a28ba907d269ff3b26696e52",
+  "sha256": "d88a3460fb299b4aa9ae3c1077e6d3f93316840d5cd6eb53a9e719ddf4418741",
   "date": "2026-10-24",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
