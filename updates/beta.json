@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.1.6",
-  "versionCode": 36,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.1.6/INNA-NAIL-MASTER.apk",
+  "version": "3.2.0",
+  "versionCode": 38,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.2.0/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "סבטלנה פותחת ומציגה מסכים בקול: לו\"ז, יומן שבוע/חודש, כל התורים, רשימת המתנה, לקוחות וכרטיס לקוחה, תור, זמנים פנויים, המדריך, טופס תור חדש (בלי שמירה). ההגדרות – רק ידנית.",
-    "ru": "Светлана открывает экраны голосом: расписание на день, календарь неделя/месяц, все записи, лист ожидания, клиентки и карточка, запись, свободное время, гид, новая запись (без сохранения). «а послезавтра?», «закрой». Настройки – только вручную.",
-    "en": "Svetlana opens screens by voice: day schedule, week/month calendar, upcoming, waiting list, clients and client card, an appointment, free slots, the guide, a new appointment form (not saved). Settings – by hand only."
+    "he": "גרסת בטא 3.2.0: מחירון בהגדרות, קוד לקוח ושליחה בוואטסאפ, בקשות לקוחות",
+    "ru": "Бета 3.2.0: прайс в настройках, код клиента и отправка в WhatsApp, заявки клиентов",
+    "en": "Beta 3.2.0: price list in settings, client code and WhatsApp send, client requests"
   },
-  "sha256": "c24aaeb80f349d1d5495d054a65acd46c0fdd455446c113bb24523d8304a6b87",
+  "sha256": "e3522921b440fb85816910c9780056fc782b45f6db75ae21d3f745ed753c2a4e",
   "date": "2026-10-24",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
