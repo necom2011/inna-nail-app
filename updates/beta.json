@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.1.5",
-  "versionCode": 35,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.1.5/INNA-NAIL-MASTER.apk",
+  "version": "3.1.6",
+  "versionCode": 36,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.1.6/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "העוזרת נפתחת רק במשפט המדויק 'אסיסטנט סבטלנה'; פס ירוק מעל הכותרת; תמיד קול נשי + בחירת קול בהגדרות; כפתור מיקרופון קטן מתחת ל-⚙️ עם תווית AI; שם העסק מנצנץ",
-    "ru": "Светлана просыпается только на точную фразу «Ассистент Светлана»; зелёная полоска над заголовком; всегда женский голос + выбор голоса в настройках; маленькая кнопка микрофона под ⚙️ с надписью ИИ; блестящее название",
-    "en": "Wakes only on the exact phrase 'Assistent Svetlana'; wake strip above the header; always a female voice + voice picker in settings; small mic button under ⚙️ labelled AI; sparkling business name"
+    "he": "סבטלנה פותחת ומציגה מסכים בקול: לו\"ז, יומן שבוע/חודש, כל התורים, רשימת המתנה, לקוחות וכרטיס לקוחה, תור, זמנים פנויים, המדריך, טופס תור חדש (בלי שמירה). ההגדרות – רק ידנית.",
+    "ru": "Светлана открывает экраны голосом: расписание на день, календарь неделя/месяц, все записи, лист ожидания, клиентки и карточка, запись, свободное время, гид, новая запись (без сохранения). «а послезавтра?», «закрой». Настройки – только вручную.",
+    "en": "Svetlana opens screens by voice: day schedule, week/month calendar, upcoming, waiting list, clients and client card, an appointment, free slots, the guide, a new appointment form (not saved). Settings – by hand only."
   },
-  "sha256": "43aacb707d9c66bffa650879e40f09ef12e2f8ff2a5e3e13bf6c91d80c39a4d1",
+  "sha256": "c24aaeb80f349d1d5495d054a65acd46c0fdd455446c113bb24523d8304a6b87",
   "date": "2026-10-24",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
