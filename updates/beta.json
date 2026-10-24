@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.0.1",
-  "versionCode": 27,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.0.1/INNA-NAIL-MASTER.apk",
+  "version": "3.0.2",
+  "versionCode": 28,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.0.2/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "עדכון חשוב: הודעות מהמנהל ישירות לאפליקציה (התראה ✉️ הודעה מסטס), רשימת הודעות בהגדרות, התראות קצרות, הגנה מפני מחיקה המונית, ייבוא ממזג, רק הבעלים מוחקת",
-    "ru": "Важное обновление: сообщения от администратора прямо в приложении (уведомление ✉️ Сообщение от Стаса), список сообщений в настройках, короткие сигналы, защита от массового удаления, импорт с объединением, удалять может только владелица",
-    "en": "Important update: admin messages straight into the app (✉️ notification), message list in settings, short alert sounds, mass-delete protection, merge import, only the owner can delete"
+    "he": "כפתורי עזרה: מדריך למשתמשת וסרטון הדרכה בהגדרות",
+    "ru": "Кнопки помощи: руководство и видеоинструкция в настройках",
+    "en": "Help buttons: user guide and video guide in Settings"
   },
-  "sha256": "171c6ea81a08fc2624f7219599c295c21817fd30903246d820a6785bcf312e32",
+  "sha256": "8329bf96721c715625bd797e45aa657daae6e694a5a6def5e9855efe20739a81",
   "date": "2026-10-24",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
