@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.1.1",
-  "versionCode": 31,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.1.1/INNA-NAIL-MASTER.apk",
+  "version": "3.1.3",
+  "versionCode": 33,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.1.3/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "תיקון: סבטלנה לא שמעה — הרשאת מיקרופון, זיהוי דיבור של Google, מד עוצמה, הודעות שגיאה ברורות, מצב הכתבה חלופי ודיאגנוסטיקה. פרוטוקול מנהל קולי (לקריאה בלבד).",
-    "ru": "Исправлено: Светлана не слышала — разрешение микрофона, распознавание Google, индикатор громкости, понятные сообщения об ошибках, запасной режим диктовки и диагностика. Голосовой протокол администратора (только чтение).",
-    "en": "Fix: Svetlana couldn't hear — mic permission flow, Google recognizer, live level meter, clear error messages, dictation fallback and diagnostics. Voice admin protocol (read-only)."
+    "he": "בטא 3.1.3: כפתור ביטול תור בכל חלון תור (התור נשמר כמבוטל והשעה מתפנה); היסטוריית מחיקות בהגדרות עם שחזור (אינה/מנהל, עם בדיקת התנגשות); סבטלנה מבינה טוב יותר רוסית יומיומית, שואלת שוב כשלא הבינה, והודעות שגיאה ברורות יותר.",
+    "ru": "Бета 3.1.3: кнопка «Отменить запись» в каждом окне записи (запись сохраняется как отменённая, время освобождается); «История удалений» в настройках с восстановлением (Инна/администратор, с проверкой пересечений); Светлана лучше понимает разговорный русский, переспрашивает и понятнее сообщает об ошибках.",
+    "en": "Beta 3.1.3: Cancel-appointment button on every appointment sheet (kept as cancelled, slot freed); Deletion history in Settings with Restore (Inna/admin, conflict check); Svetlana understands colloquial Russian better, asks again when unsure, clearer AI errors."
   },
-  "sha256": "89546b5f961ef9116df36e9b6edb1c3776bba4957456f2f3ba09bda5353e484e",
+  "sha256": "3542cb09464278016c061887a0884d628f5317708832553accc2b4272a9d1add",
   "date": "2026-10-24",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
