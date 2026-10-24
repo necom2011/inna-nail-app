@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.1.0",
-  "versionCode": 30,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.1.0/INNA-NAIL-MASTER.apk",
+  "version": "3.1.1",
+  "versionCode": 31,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.1.1/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "בטא: העוזרת הקולית סבטלנה – קביעת תורים בקול (רק באישור מפורש), זמנים פנויים, 8 קולות, ותשובות לשאלות כלליות (כשהשרת מחובר).",
-    "ru": "Бета: голосовой помощник Светлана – запись голосом (только после явного подтверждения), свободное время, 8 голосов на выбор, ответы на общие вопросы (когда сервер подключён).",
-    "en": "Beta: Svetlana voice assistant – voice booking (only after explicit confirmation), free slots, 8 voices, answers to general questions (when the server is connected)."
+    "he": "תיקון: סבטלנה לא שמעה — הרשאת מיקרופון, זיהוי דיבור של Google, מד עוצמה, הודעות שגיאה ברורות, מצב הכתבה חלופי ודיאגנוסטיקה. פרוטוקול מנהל קולי (לקריאה בלבד).",
+    "ru": "Исправлено: Светлана не слышала — разрешение микрофона, распознавание Google, индикатор громкости, понятные сообщения об ошибках, запасной режим диктовки и диагностика. Голосовой протокол администратора (только чтение).",
+    "en": "Fix: Svetlana couldn't hear — mic permission flow, Google recognizer, live level meter, clear error messages, dictation fallback and diagnostics. Voice admin protocol (read-only)."
   },
-  "sha256": "8df9f408f74665c9e487cd0ba0ae566687a2e343a8c57825d79a419a5fd7f580",
+  "sha256": "89546b5f961ef9116df36e9b6edb1c3776bba4957456f2f3ba09bda5353e484e",
   "date": "2026-10-24",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
