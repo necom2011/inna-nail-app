@@ -10,5 +10,6 @@
   },
   "sha256": "fbe9d8747ebe76c4660142e86c0351397e1acdfaf57e780dd6165c632e3ae3b1",
   "date": "2026-10-24",
-  "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
+  "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app",
+  "urgent": true
 }
