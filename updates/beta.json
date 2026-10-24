@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.1.4",
-  "versionCode": 34,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.1.4/INNA-NAIL-MASTER.apk",
+  "version": "3.1.5",
+  "versionCode": 35,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.1.5/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "בטא 3.1.4: סידור חדש להגדרות (אודות למעלה, היסטוריית מחיקות כסעיף נפרד, העוזרת הקולית למעלה, נוסח ההודעה בהגדרות מפתח); לוגו ושם בשורה אחת; סבטלנה מחכה בסבלנות לסוף המשפט (מהר/רגיל/לאט); הפעלה בקול \"אסיסטנט סבטלנה\" – זיהוי בטלפון בלבד; סיבות שגיאה ברורות יותר של ה-AI.",
-    "ru": "Бета 3.1.4: новый порядок настроек (О программе вверху, История удалений отдельным разделом, голосовой помощник наверху, шаблон сообщения в настройках разработчика); логотип и название в одну строку; Светлана терпеливо ждёт конца фразы (быстро/нормально/медленно); активация голосом «Ассистент Светлана» – распознаётся только на телефоне; понятнее причины ошибок ИИ.",
-    "en": "Beta 3.1.4: reorganised Settings (About on top, Deletion history as its own section, voice assistant near the top, message template in developer settings); logo and name on one line; Svetlana waits patiently for you to finish (fast/normal/slow); voice activation \"Assistent Svetlana\", recognised on the phone only; clearer AI error reasons."
+    "he": "העוזרת נפתחת רק במשפט המדויק 'אסיסטנט סבטלנה'; פס ירוק מעל הכותרת; תמיד קול נשי + בחירת קול בהגדרות; כפתור מיקרופון קטן מתחת ל-⚙️ עם תווית AI; שם העסק מנצנץ",
+    "ru": "Светлана просыпается только на точную фразу «Ассистент Светлана»; зелёная полоска над заголовком; всегда женский голос + выбор голоса в настройках; маленькая кнопка микрофона под ⚙️ с надписью ИИ; блестящее название",
+    "en": "Wakes only on the exact phrase 'Assistent Svetlana'; wake strip above the header; always a female voice + voice picker in settings; small mic button under ⚙️ labelled AI; sparkling business name"
   },
-  "sha256": "f36650a435ad3aa74c9baf027004f0192baec83d304047c3d2ea2ddd08f8b65d",
+  "sha256": "43aacb707d9c66bffa650879e40f09ef12e2f8ff2a5e3e13bf6c91d80c39a4d1",
   "date": "2026-10-24",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
