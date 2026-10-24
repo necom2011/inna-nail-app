@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.0.2",
-  "versionCode": 28,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.0.2/INNA-NAIL-MASTER.apk",
+  "version": "3.0.3",
+  "versionCode": 29,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.0.3/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "כפתורי עזרה: מדריך למשתמשת וסרטון הדרכה בהגדרות",
-    "ru": "Кнопки помощи: руководство и видеоинструкция в настройках",
-    "en": "Help buttons: user guide and video guide in Settings"
+    "he": "חדש: כפתור nail-lorn בכותרת ליד ⚙️ ובהגדרות – פותח את אפליקציית המדריך nail-lorn (שאלות נפוצות וסרטון). אם לא מותקנת – הצעה להורדה. האפליקציה הראשית קלה יותר.",
+    "ru": "Новое: кнопка nail-lorn в шапке рядом с ⚙️ и в настройках – открывает приложение-инструкцию nail-lorn (частые вопросы и видео). Если оно не установлено – предложение скачать. Основное приложение стало легче.",
+    "en": "New: nail-lorn button in the header next to ⚙️ and in Settings – opens the nail-lorn guide app (FAQ and video). If not installed, offers a download. The main app is lighter again."
   },
-  "sha256": "8329bf96721c715625bd797e45aa657daae6e694a5a6def5e9855efe20739a81",
+  "sha256": "5b3ad11fc858231d5811474e87d1ad08a39437a8e484458e2cd299cea7d14e35",
   "date": "2026-10-24",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
