@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "2.8.4",
-  "versionCode": 20,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.8.4/INNA-NAIL-MASTER.apk",
+  "version": "2.8.5",
+  "versionCode": 21,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v2.8.5/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "חדש: מסמך זכויות יוצרים ורישיון שימוש (הגדרות › אודות)",
-    "ru": "Новое: документ об авторских правах и лицензии (Настройки › О программе)",
-    "en": "New: copyright & license document (Settings › About)"
+    "he": "בטא 2.8.5: אמצעי זהירות בטיפול (לבעלת העסק בלבד), החתמת לקוחה על המסך + PDF, שורת בריאות בתזכורת, קישורי Waze/יומן קצרים, תיקון קריסת יומן שבועי (פדיקור רפואי)",
+    "ru": "Бета 2.8.5: меры предосторожности (только владелица), подпись клиентки + PDF, строка о здоровье в напоминании, короткие ссылки Waze/календаря, исправлен сбой недельного календаря",
+    "en": "Beta 2.8.5: treatment precautions (owner only), on-screen client signature + PDF, health line in reminder, short Waze/calendar links, weekly calendar crash fix"
   },
-  "sha256": "c7ec6d62c0e8e26bd89648eff19226b560f45c385d11a07bb954ab156c2ba084",
+  "sha256": "b89129679b7b676709837694c97bb02b310d7c57a295db637fab07369f2169ea",
   "date": "2026-10-24",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
