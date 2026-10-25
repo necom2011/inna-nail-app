@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.2.6",
-  "versionCode": 44,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.2.6/INNA-NAIL-MASTER.apk",
+  "version": "3.2.7",
+  "versionCode": 45,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.2.7/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "שינויים אחרונים מהלקוחות (ביטולים, אישורי הגעה, יציאה מרשימת המתנה) עם כפתור קראתי; תורים שהתפנו עם הצעה לממתינות",
-    "ru": "Последние изменения от клиенток (отмены, подтверждения прихода, выход из листа ожидания) с кнопкой «Прочитано»; освободившиеся окна с предложением ожидающим",
-    "en": "Recent client changes (cancellations, arrival confirmations, waiting-list leaves) with a Mark read button; freed slots with waiting-list offers"
+    "he": "חדש: תור חירום 🚑 – כפתור '+ תור חירום' בתצוגת היום",
+    "ru": "Новое: экстренная запись 🚑 – кнопка «+ תור חירום» в дневном виде",
+    "en": "New: emergency appointment 🚑 – '+ emergency' button in day view"
   },
-  "sha256": "4d776a7ba01cca8ff2c7b13aee486ccfe9012177cd7b4aac3b117dd4ab94370c",
+  "sha256": "1b5230b0872be83f5116087e27c58731f1252a01b99ff068eb791e8144ed1dfd",
   "date": "2026-10-25",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
