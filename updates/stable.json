@@ -1,15 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.2.3",
-  "versionCode": 40,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.2.3/INNA-NAIL-MASTER.apk",
+  "version": "3.2.5",
+  "versionCode": 43,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.2.5/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "עריכת מחירון גם לסטס · קוד לקוח גלוי + כפתור וואטסאפ אחד עם לינק ופרטי כניסה",
-    "ru": "Прайс редактирует и Стас · код клиента виден всегда + одна кнопка WhatsApp со ссылкой и данными входа",
-    "en": "Stas can edit prices too · client code always visible + one WhatsApp button with link and login"
+    "he": "גרסה 3.2.5: אישור הגעה מהאפליקציה, סימון שעה שלקוחה ביקשה עם אישור מהיר, התראות כשהאפליקציה סגורה (שקט 23:00–05:10), גיבוי תמונה להצהרת בריאות, אישור הצטרפות לרשימת המתנה, באנר מדריך. חלק מהתכונות יופעלו עם עדכון השרת.",
+    "ru": "Версия 3.2.5: подтверждение прихода из приложения, отметка запрошенного клиенткой времени с быстрым подтверждением, уведомления при закрытом приложении (тишина 23:00–05:10), резервное изображение декларации здоровья, подтверждение листа ожидания, баннер инструкции. Часть функций включится после обновления сервера.",
+    "en": "Version 3.2.5: arrival confirmation from the client app, requested-slot marker with quick approval, alerts while the app is closed (quiet 23:00–05:10), image fallback for the health declaration, waiting-list join approval, guide banner. Some features activate after the server update."
   },
-  "sha256": "fbe9d8747ebe76c4660142e86c0351397e1acdfaf57e780dd6165c632e3ae3b1",
-  "date": "2026-10-24",
-  "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app",
-  "urgent": true
+  "sha256": "61519869f598a3a98ef7e6dab503cf27ef1bf3e6daf74ac25b422e35c2040055",
+  "date": "2026-10-25",
+  "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
