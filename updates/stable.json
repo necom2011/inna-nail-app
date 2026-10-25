@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.2.7",
-  "versionCode": 45,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.2.7/INNA-NAIL-MASTER.apk",
+  "version": "3.2.8",
+  "versionCode": 46,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.2.8/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "חדש: תור חירום 🚑 – כפתור '+ תור חירום' בתצוגת היום",
-    "ru": "Новое: экстренная запись 🚑 – кнопка «+ תור חירום» в дневном виде",
-    "en": "New: emergency appointment 🚑 – '+ emergency' button in day view"
+    "he": "תור חירום שהלקוחה ביטלה מופיע עם \"בוטל\" ונשמר בהיסטוריה",
+    "ru": "Срочная запись, отменённая клиенткой, показывается как «Отменено» и сохраняется в истории",
+    "en": "An emergency appointment cancelled by the client is shown as \"Cancelled\" and kept in history"
   },
-  "sha256": "1b5230b0872be83f5116087e27c58731f1252a01b99ff068eb791e8144ed1dfd",
+  "sha256": "d82e075aa31ea3b24f62ab25de5c66f5b04d1521f236c25927ed773b3e12bc1d",
   "date": "2026-10-25",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
