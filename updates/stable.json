@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.3.5",
-  "versionCode": 54,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.3.5/INNA-NAIL-MASTER.apk",
+  "version": "3.3.6",
+  "versionCode": 55,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.3.6/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "ניסוח ניטרלי ללקוחות, התראה מהירה על כל שינוי מאפליקציית הלקוחות, כניסה בלחיצה אחת במכשיר מוכר, והשעיית לקוח/ה מכרטיס הלקוח.",
-    "ru": "Нейтральные формулировки для клиентов, быстрые уведомления о любых изменениях из приложения клиентов, вход одним нажатием на знакомом устройстве и приостановка доступа клиента из карточки.",
-    "en": "Gender-neutral client wording, fast alerts for every change from the client app, one-tap sign-in on a remembered device, and suspend/reactivate a client from the client card."
+    "he": "רשימת המתנה: היסטוריית הסרות נשמרת באפליקציה. התראת 'השרת לא מגיב' – פעם אחת לכל תקלה, בלי הצפה.",
+    "ru": "Лист ожидания: история удалений сохраняется в приложении. Оповещение «сервер не отвечает» – один раз за сбой, без спама.",
+    "en": "Waiting list: removal history is kept in the app. 'Server not responding' alert – once per outage, no spam."
   },
-  "sha256": "12cdf60711f44bbf6b92b76427385f571b723983555f5c867f2a1bcf43f17ad6",
+  "sha256": "6adc961c0a6c863eee8b373535cf45457bb0386c2c93f08edd16d199c726bdcd",
   "date": "2026-10-26",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
