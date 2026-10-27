@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.7.2",
-  "versionCode": 69,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.2/INNA-NAIL-MASTER.apk",
+  "version": "3.7.3",
+  "versionCode": 70,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.3/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "תור אחד עם כמה טיפולים (למשל מניקור + פדיקור) – משך התור מחושב אוטומטית · הודעות ללקוחה נשלחות תמיד בשפה שנבחרה לה (גם אם האפליקציה בשפה אחרת) · בחירת שפה בכרטיס הלקוחה · חדש: אירוע אישי ביומן (כפתור \"הוספה ליומן\" במסך הבית) – חוסם זמן או במקביל · חופשה לפי שעות (חצי יום) וחלונות פנויים בחופשה · קבוצות לקוחות (פעילות, ותיקות, קבועות, חדשות) עם סימון אפליקציה · שליחת הודעה לכלל הלקוחות",
-    "ru": "Одна запись с несколькими процедурами (например, маникюр + педикюр) – длительность считается автоматически · сообщения клиентам всегда на выбранном для них языке (даже если приложение на другом языке) · выбор языка в карточке клиента · новое: личное событие в календаре (кнопка «В календарь» на главном экране) – блокирует время или параллельно · Отпуск по часам (полдня) и свободные окна в отпуске · группы клиентов (активные, давние, постоянные, новые) с отметкой приложения · сообщение всем клиентам",
-    "en": "One appointment with several treatments (e.g. manicure + pedicure) – the duration is summed automatically · messages to clients always use the language chosen for that client (even if the app is in another language) · language selector on the client card · new: personal calendar events (\"Add to calendar\" on the home screen) – blocking or parallel · Vacation by hours (half day) and open windows during a vacation · client groups (active, long-time, regulars, new) with an app indicator · message all clients"
+    "he": "תמונות במסך מלא עם זום (צביטה, הזזה, הקשה כפולה) · תג 'לא נשלח קוד' וקבוצה · סרגל: כולן / ⭐ מועדפות / סינון · כוכב מועדפות מסונכרן · תמונות נטענות בלי ניתוק בשרת איטי",
+    "ru": "Фото на весь экран с зумом (щипок, сдвиг, двойной тап) · метка «код не отправлен» и группа · панель: все / ⭐ избранные / фильтр · синхронизируемая звёздочка · фото грузятся без обрыва при медленном сервере",
+    "en": "Full-screen photos with zoom (pinch, pan, double-tap) · 'code not sent' badge and group · bar: all / ⭐ favorites / filter · synced favorite star · photos load without timeouts on a slow server"
   },
-  "sha256": "4b4b35a7a93f8dce4242d0081b436762b31e0beaade136ce766917eb7b6268ec",
-  "date": "2026-10-27",
+  "sha256": "ca9a8f1006f88b43f79134d1aff02fa4a7bbc19880265129dd1ea1e7b6d4cf81",
+  "date": "2026-10-28",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
