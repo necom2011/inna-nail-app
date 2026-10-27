@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.5.1",
-  "versionCode": 60,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.5.1/INNA-NAIL-MASTER.apk",
+  "version": "3.6.0",
+  "versionCode": 61,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.6.0/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "תיקון כותרות ימים בחלון העדכונים סביב חצות/מעבר שעון · תיקונים קטנים",
-    "ru": "Исправлены заголовки дней в окне обновлений около полуночи/перевода часов · мелкие исправления",
-    "en": "Fixed day headers in the updates window around midnight/DST change · small fixes"
+    "he": "צילום פרופיל של לקוחה במסך מלא · המלצות לשעות פנויות לבקשות ברשימת המתנה והזמנה בנגיעה אחת · זיהוי מכשיר מאובטח · תיקונים קטנים",
+    "ru": "Фото профиля клиента на весь экран · рекомендации свободных слотов для заявок из листа ожидания и запись одним касанием · защищённая идентификация устройства · мелкие исправления",
+    "en": "Full-screen client profile photo · recommended free slots for waiting-list requests with one-tap booking · secure device identity · small fixes"
   },
-  "sha256": "f53ea33d734a0db026f6d40697514a36692896718bffc6ed2e63cc879cd9ff1d",
+  "sha256": "b61b6b7342b484b236c952a29aa63924747a3580cc14198e3207f37130bf6c27",
   "date": "2026-10-27",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
