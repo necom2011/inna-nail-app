@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.5.0",
-  "versionCode": 59,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.5.0/INNA-NAIL-MASTER.apk",
+  "version": "3.5.1",
+  "versionCode": 60,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.5.1/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "חלון חירום: חיפוש לקוחה לפי שם/טלפון, טופלו לאחרונה למעלה, תאריך טיפול אחרון ויום בשבוע · הוספת לקוחה: הצעות מהספרה ה-5, אין כפילות טלפון · תמונות מלקוחות (עד 5) בבקשות ובתורים, מסך מלא עם זום · תמונת פרופיל של לקוחה ברשימה ובכרטיס · תיקון מספר הגרסה",
-    "ru": "Экстренное окно: поиск клиента по имени/телефону, недавние сверху, дата последней процедуры и день недели · Новый клиент: подсказки с 5-й цифры, без дублей телефона · Фото от клиентов (до 5) в заявках и записях, полный экран с зумом · Фото профиля клиента в списке и карточке · Исправлен номер версии",
-    "en": "Emergency window: client search by name/phone, recent first, last treatment date + weekday · New client: suggestions from the 5th digit, no duplicate phones · Client photos (up to 5) in requests and appointments, full screen with zoom · Client profile photo in list and card · Version label fixed"
+    "he": "תיקון כותרות ימים בחלון העדכונים סביב חצות/מעבר שעון · תיקונים קטנים",
+    "ru": "Исправлены заголовки дней в окне обновлений около полуночи/перевода часов · мелкие исправления",
+    "en": "Fixed day headers in the updates window around midnight/DST change · small fixes"
   },
-  "sha256": "c95b0178c84fa5c547a05be62f37a308d68d711d1f9946fd56e934cbe93e9601",
-  "date": "2026-10-26",
+  "sha256": "f53ea33d734a0db026f6d40697514a36692896718bffc6ed2e63cc879cd9ff1d",
+  "date": "2026-10-27",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
