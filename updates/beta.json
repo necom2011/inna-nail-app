@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.7.0",
-  "versionCode": 63,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.0/INNA-NAIL-MASTER.apk",
+  "version": "3.7.1",
+  "versionCode": 64,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.1/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "זיהוי מתקשר: כשהאפליקציה פתוחה ומתנהלת שיחה קופץ כרטיס הלקוחה (תורים קרובים, פתיחת כרטיס, קביעת תור, הוספת מספר חדש כלקוחה) · היסטוריית שיחות לכל לקוחה · עדכון בלחיצה אחת",
-    "ru": "Определение звонящего: пока приложение открыто и идёт звонок, появляется карточка клиентки (ближайшие записи, открыть карточку, записать, добавить новый номер) · история звонков по клиенткам · обновление в одно касание",
-    "en": "Caller ID: while the app is open and a call is active, the client card pops up (upcoming appointments, open card, book, add a new number as a client) · call history per client · one-tap update"
+    "he": "עדכון קטן לזיהוי מתקשר: מופעל אוטומטית כשההרשאות ניתנו · כפתור תור חירום מהחלון · אזהרה על לקוחה מושהית · הצעה מוכנה להזמנת לקוחה חדשה לאפליקציה (שום דבר לא נשלח אוטומטית)",
+    "ru": "Небольшое обновление определения звонящего: включается автоматически, если разрешения выданы · кнопка экстренной записи из окна · предупреждение о приостановленной клиентке · готовое приглашение новой клиентки в приложение (ничего не отправляется автоматически)",
+    "en": "Small caller-ID update: turns on automatically once permissions are granted · emergency-appointment button in the popup · warning for a suspended client · ready-made invitation to the client app for a newly added client (nothing is sent automatically)"
   },
-  "sha256": "e85e8b3bcfe08027736a8aaba89153a20f540857303fb47fc15fcc30092829b5",
+  "sha256": "73d5dfe8408848c9b813c962c2d5980ee12c9f7d54f088f159b1bd230538becb",
   "date": "2026-10-27",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
