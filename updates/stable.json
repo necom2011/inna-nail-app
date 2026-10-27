@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.6.0",
-  "versionCode": 61,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.6.0/INNA-NAIL-MASTER.apk",
+  "version": "3.7.0",
+  "versionCode": 63,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.0/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "צילום פרופיל של לקוחה במסך מלא · המלצות לשעות פנויות לבקשות ברשימת המתנה והזמנה בנגיעה אחת · זיהוי מכשיר מאובטח · תיקונים קטנים",
-    "ru": "Фото профиля клиента на весь экран · рекомендации свободных слотов для заявок из листа ожидания и запись одним касанием · защищённая идентификация устройства · мелкие исправления",
-    "en": "Full-screen client profile photo · recommended free slots for waiting-list requests with one-tap booking · secure device identity · small fixes"
+    "he": "זיהוי מתקשר: כשהאפליקציה פתוחה ומתנהלת שיחה קופץ כרטיס הלקוחה (תורים קרובים, פתיחת כרטיס, קביעת תור, הוספת מספר חדש כלקוחה) · היסטוריית שיחות לכל לקוחה · עדכון בלחיצה אחת",
+    "ru": "Определение звонящего: пока приложение открыто и идёт звонок, появляется карточка клиентки (ближайшие записи, открыть карточку, записать, добавить новый номер) · история звонков по клиенткам · обновление в одно касание",
+    "en": "Caller ID: while the app is open and a call is active, the client card pops up (upcoming appointments, open card, book, add a new number as a client) · call history per client · one-tap update"
   },
-  "sha256": "b61b6b7342b484b236c952a29aa63924747a3580cc14198e3207f37130bf6c27",
+  "sha256": "e85e8b3bcfe08027736a8aaba89153a20f540857303fb47fc15fcc30092829b5",
   "date": "2026-10-27",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
