@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.7.1",
-  "versionCode": 64,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.1/INNA-NAIL-MASTER.apk",
+  "version": "3.7.2",
+  "versionCode": 69,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.2/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "עדכון קטן לזיהוי מתקשר: מופעל אוטומטית כשההרשאות ניתנו · כפתור תור חירום מהחלון · אזהרה על לקוחה מושהית · הצעה מוכנה להזמנת לקוחה חדשה לאפליקציה (שום דבר לא נשלח אוטומטית)",
-    "ru": "Небольшое обновление определения звонящего: включается автоматически, если разрешения выданы · кнопка экстренной записи из окна · предупреждение о приостановленной клиентке · готовое приглашение новой клиентки в приложение (ничего не отправляется автоматически)",
-    "en": "Small caller-ID update: turns on automatically once permissions are granted · emergency-appointment button in the popup · warning for a suspended client · ready-made invitation to the client app for a newly added client (nothing is sent automatically)"
+    "he": "תור אחד עם כמה טיפולים (למשל מניקור + פדיקור) – משך התור מחושב אוטומטית · הודעות ללקוחה נשלחות תמיד בשפה שנבחרה לה (גם אם האפליקציה בשפה אחרת) · בחירת שפה בכרטיס הלקוחה · חדש: אירוע אישי ביומן (כפתור \"הוספה ליומן\" במסך הבית) – חוסם זמן או במקביל · חופשה לפי שעות (חצי יום) וחלונות פנויים בחופשה · קבוצות לקוחות (פעילות, ותיקות, קבועות, חדשות) עם סימון אפליקציה · שליחת הודעה לכלל הלקוחות",
+    "ru": "Одна запись с несколькими процедурами (например, маникюр + педикюр) – длительность считается автоматически · сообщения клиентам всегда на выбранном для них языке (даже если приложение на другом языке) · выбор языка в карточке клиента · новое: личное событие в календаре (кнопка «В календарь» на главном экране) – блокирует время или параллельно · Отпуск по часам (полдня) и свободные окна в отпуске · группы клиентов (активные, давние, постоянные, новые) с отметкой приложения · сообщение всем клиентам",
+    "en": "One appointment with several treatments (e.g. manicure + pedicure) – the duration is summed automatically · messages to clients always use the language chosen for that client (even if the app is in another language) · language selector on the client card · new: personal calendar events (\"Add to calendar\" on the home screen) – blocking or parallel · Vacation by hours (half day) and open windows during a vacation · client groups (active, long-time, regulars, new) with an app indicator · message all clients"
   },
-  "sha256": "73d5dfe8408848c9b813c962c2d5980ee12c9f7d54f088f159b1bd230538becb",
+  "sha256": "4b4b35a7a93f8dce4242d0081b436762b31e0beaade136ce766917eb7b6268ec",
   "date": "2026-10-27",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
