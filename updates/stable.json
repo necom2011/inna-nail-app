@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.7.5",
-  "versionCode": 72,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.5/INNA-NAIL-MASTER.apk",
+  "version": "3.7.6",
+  "versionCode": 73,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.6/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "ברשימת התורים הפנויים: על התור הפנוי האחרון לפני תור תפוס מופיע מתי מתחיל התור הבא וכמה זמן פנוי עד אליו (דקות, או ש:דד מעל שעה) – רק שעה, בלי פרטי לקוחה",
-    "ru": "В списке свободного времени: на последнем свободном окне перед занятой записью видно, когда начинается следующая запись и сколько времени свободно до неё (минуты или ч:мм) – только время, без данных клиента",
-    "en": "Free-slots list: the last free slot before a booked one shows when the next appointment starts and how long is free until then (minutes, or h:mm over an hour) – time only, no client details"
+    "he": "חיבור מהיר ויציב יותר לשרת",
+    "ru": "Более быстрое и стабильное соединение с сервером",
+    "en": "Faster, steadier server connection"
   },
-  "sha256": "599e1ff11c6569719edb03f00d4b5068096c67fe26d493ef4fc38919f1993a58",
+  "sha256": "90ecfb74a9d91ded3ea88f56425b84a192d29c0ee494a65227f5bdeba394dd21",
   "date": "2026-10-28",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
