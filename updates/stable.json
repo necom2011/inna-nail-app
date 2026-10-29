@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.7.8",
-  "versionCode": 75,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.8/INNA-NAIL-MASTER.apk",
+  "version": "3.7.9",
+  "versionCode": 76,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.9/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "קבוצות טיפולים, תמונת לקוחה במסך מלא בעוד מקומות",
-    "ru": "Группы процедур, фото клиентки на весь экран в новых местах",
-    "en": "Treatment groups, client photo full screen in more places"
+    "he": "בחירת טיפולים פשוטה: כל הטיפולים בשתי עמודות, סה״כ זמן ניתן לעריכה",
+    "ru": "Простой выбор процедур: все процедуры в 2 колонки, общее время можно изменить",
+    "en": "Simple treatment picker: all treatments in 2 columns, editable total time"
   },
-  "sha256": "5b64d7205ede05210bb2797c1f832150aa9c0958fd8c79a944d6be7ebf992897",
+  "sha256": "83f8f34752afc3bde47ffbc8690fa974f65d06940afa291a42d5a33306797f2e",
   "date": "2026-10-29",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
