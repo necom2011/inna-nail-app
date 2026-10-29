@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.7.7",
-  "versionCode": 74,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.7/INNA-NAIL-MASTER.apk",
+  "version": "3.7.8",
+  "versionCode": 75,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.8/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "רשימת טיפולים חדשה (24), סינון לקוחות לפי קוד/כניסה, הנפקת קוד בלי לחיצה כפולה",
-    "ru": "Новый список услуг (24), фильтр клиентов по коду/входу, выдача кода без двойного нажатия",
-    "en": "New treatments list (24), client filters by code/login, code issuing without double taps"
+    "he": "קבוצות טיפולים, תמונת לקוחה במסך מלא בעוד מקומות",
+    "ru": "Группы процедур, фото клиентки на весь экран в новых местах",
+    "en": "Treatment groups, client photo full screen in more places"
   },
-  "sha256": "b11cdc6c60e0d44cab6acfc3e0a3dbb30790c12c78ce71bb784ffd79651478dc",
-  "date": "2026-10-28",
+  "sha256": "5b64d7205ede05210bb2797c1f832150aa9c0958fd8c79a944d6be7ebf992897",
+  "date": "2026-10-29",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
