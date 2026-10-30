@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.7.20",
-  "versionCode": 87,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.20/INNA-NAIL-MASTER.apk",
+  "version": "3.7.21",
+  "versionCode": 88,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.21/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "בטא: מעבר לעולם הבטא בלי קוד + הצעות מרשימת ההמתנה ⭐ ובקשות תור מהאפליקציה ❓ (אישור/דחייה, וואטסאפ – את לוחצת שלח). פעיל רק בעולם הבטא; בלייב ללא שינוי",
-    "ru": "Бета: переход в бета-мир без кода + предложения из листа ожидания ⭐ и запросы записи ❓ (подтвердить/отклонить, WhatsApp – отправляете сами). Только в бета-мире; лайв без изменений",
-    "en": "Beta: switch to the beta world without a code + waitlist offers ⭐ and app booking requests ❓ (approve/reject, WhatsApp – you press send). Beta world only; live unchanged"
+    "he": "תמונת הפרופיל של הלקוח/ה נפתחת על כל המסך ברקע שחור (עם זום)",
+    "ru": "Фото профиля клиента открывается на весь экран на чёрном фоне (с зумом)",
+    "en": "Client profile photo opens full screen on a black background (with zoom)"
   },
-  "sha256": "4a5358473a2d73883fa87717306e45170f6e736bb7c3996a0c8b12bb555e3d1c",
+  "sha256": "5b84c4486739f9889c9185a032362e83a395812a364c8742f7b537fd80cd5cc5",
   "date": "2026-10-30",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
