@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.7.18",
-  "versionCode": 85,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.18/INNA-NAIL-MASTER.apk",
+  "version": "3.7.19",
+  "versionCode": 86,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.19/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "לשונית מחר מציגה את היום הבא עם תורים (עם יום ותאריך); שורת הזכויות לא מוסתרת",
-    "ru": "Вкладка «Завтра» показывает ближайший день с записями (с днём и датой); строка прав больше не перекрыта",
-    "en": "Tomorrow tab shows the next day with appointments (weekday + date); rights line no longer covered"
+    "he": "מתג לייב/בטא למשתמשי בטא מאושרים בלבד; ללא שינוי בשימוש הרגיל",
+    "ru": "Переключатель лайв/бета только для одобренных бета-пользователей; обычная работа без изменений",
+    "en": "Live/beta switch for approved beta users only; normal use unchanged"
   },
-  "sha256": "36e46b80d7ea399f72d5b1192a7ed60f12abc6db31f8e50e2e7d96e939724fe2",
-  "date": "2026-10-29",
+  "sha256": "b29ee7058271c8518427501566d97dc97c9bb13bc891879f9aa19fb42d26650b",
+  "date": "2026-10-30",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
