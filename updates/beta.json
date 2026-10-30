@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.7.16",
-  "versionCode": 83,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.16/INNA-NAIL-MASTER.apk",
+  "version": "3.7.17",
+  "versionCode": 84,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.17/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "שורת הזכויות: כל הזכויות שמורות לעסק INNA NAIL MASTER ©",
-    "ru": "Строка прав: все права принадлежат бизнесу INNA NAIL MASTER ©",
-    "en": "Rights line: all rights reserved by the business INNA NAIL MASTER ©"
+    "he": "שורת זכויות: INNA NAIL MASTER © משנת 1998",
+    "ru": "Права: INNA NAIL MASTER © с 1998 года",
+    "en": "Rights: INNA NAIL MASTER © since 1998"
   },
-  "sha256": "90871f831cc4b46c4ad5adf426e7ec51f9bf151338baeb513eb9927501fda17b",
+  "sha256": "7eaaec96df03dc790d643d01e629f5a4eb0abccde91616fd61b97ec4ad9fe31f",
   "date": "2026-10-29",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
