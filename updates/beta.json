@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.7.15",
-  "versionCode": 82,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.15/INNA-NAIL-MASTER.apk",
+  "version": "3.7.16",
+  "versionCode": 83,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.16/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "האקס להסתרה מופיע פעם אחת, ליד שעת התור",
-    "ru": "Крестик скрытия показывается один раз, рядом со временем записи",
-    "en": "The hide X now shows once, next to the appointment time"
+    "he": "שורת הזכויות: כל הזכויות שמורות לעסק INNA NAIL MASTER ©",
+    "ru": "Строка прав: все права принадлежат бизнесу INNA NAIL MASTER ©",
+    "en": "Rights line: all rights reserved by the business INNA NAIL MASTER ©"
   },
-  "sha256": "5122116baebb51c1c65400bff9e50915c3f6f025eeb0967b474e911e51c497f4",
+  "sha256": "90871f831cc4b46c4ad5adf426e7ec51f9bf151338baeb513eb9927501fda17b",
   "date": "2026-10-29",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
