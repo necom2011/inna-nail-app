@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.7.21",
-  "versionCode": 88,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.21/INNA-NAIL-MASTER.apk",
+  "version": "3.7.22",
+  "versionCode": 89,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.22/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "תמונת הפרופיל של הלקוח/ה נפתחת על כל המסך ברקע שחור (עם זום)",
-    "ru": "Фото профиля клиента открывается на весь экран на чёрном фоне (с зумом)",
-    "en": "Client profile photo opens full screen on a black background (with zoom)"
+    "he": "תיקון: תגיות הסטטוס (תזכורת נשלחה / אישר/ה הגעה) נשארות בתוך כרטיס התור, בלי גלילה לצדדים",
+    "ru": "Исправление: метки статуса (напоминание отправлено / подтвердил(а) визит) остаются внутри карточки записи, без прокрутки вбок",
+    "en": "Fix: status chips (reminder sent / confirmed) stay inside the appointment card, no sideways scrolling"
   },
-  "sha256": "5b84c4486739f9889c9185a032362e83a395812a364c8742f7b537fd80cd5cc5",
-  "date": "2026-10-30",
+  "sha256": "81901820c17d3797be308b613460ec70bbbe2cbc501dfead207e11cbf0bceebc",
+  "date": "2026-10-31",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
