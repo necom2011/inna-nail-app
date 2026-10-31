@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.7.24",
-  "versionCode": 91,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.24/INNA-NAIL-MASTER.apk",
+  "version": "3.7.25",
+  "versionCode": 92,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.25/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "בטא: כניסה 'חגים' בהגדרות מתחת לשעות פעילות; תזכורת 7 ימים לפני כל חג להחליט אם לקוחות יכולים לשלוח בקשות",
-    "ru": "Бета: пункт «Праздники» в настройках под часами работы; напоминание за 7 дней до каждого праздника решить, могут ли клиенты отправлять запросы",
-    "en": "Beta: 'Holidays' entry in Settings under working hours; reminder 7 days before each holiday to decide whether clients can send requests"
+    "he": "רשימת המתנה ובקשות תור פעילות גם בעולם הרגיל (הרצת ניסיון): הצעות ⭐, התראות דחופות, מסך חגים ותזכורת 7 ימים",
+    "ru": "Лист ожидания и запросы записи теперь и в обычном режиме (пробный запуск): предложения ⭐, срочные уведомления, праздники и напоминание за 7 дней",
+    "en": "Waitlist & booking requests now in the regular world (trial run): ⭐ offers, urgent alerts, holidays screen and 7-day reminder"
   },
-  "sha256": "0fda3381b3e0ff3348ecebc11c18c6d233ffb2a72a9ffc42c935a417ddc553fd",
+  "sha256": "816eace4e6bc9125bc3e7aef57398cd2d8ba949c308ca6b05ceed195c72826e7",
   "date": "2026-10-31",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
