@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.7.26",
-  "versionCode": 93,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.26/INNA-NAIL-MASTER.apk",
+  "version": "3.7.27",
+  "versionCode": 94,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.27/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "כפתור ⭐❓ המתנה ובקשות הועבר ללשונית צד (מתחת ללשונית העדכונים) ולא מסתיר יותר את כפתור ה-+",
-    "ru": "Кнопка ⭐❓ Ожидание и запросы перенесена в боковую вкладку (под вкладкой обновлений) и больше не закрывает кнопку +",
-    "en": "The ⭐❓ Waitlist & requests button is now a side tab (below the Updates tab) and no longer covers the + button"
+    "he": "האפליקציה מהירה וחסכונית יותר: מתעדכנת מיד כשמגיעה התראה מהשרת או כשחוזרים לאפליקציה, ובדיקה אוטומטית רק פעם בדקה (במקום כל 15 שניות)",
+    "ru": "Приложение быстрее и экономнее: обновляется сразу при уведомлении от сервера или при возврате в приложение, автоматическая проверка раз в минуту (вместо каждых 15 секунд)",
+    "en": "Faster, lighter app: refreshes at once on a server push or when you return to the app; automatic check once a minute (was every 15 seconds)"
   },
-  "sha256": "6fbd4c1314dc5c616cb6b9a5fa08109ce2655552c456bc41026638132084d49f",
-  "date": "2026-11-01",
+  "sha256": "c240c1b7d2260eca27454d2893023939903a30b69b8e99eba30ad54413a07dfc",
+  "date": "2026-11-16",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
