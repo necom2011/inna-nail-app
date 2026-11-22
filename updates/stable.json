@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.7.29",
-  "versionCode": 96,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.29/INNA-NAIL-MASTER.apk",
+  "version": "3.7.30",
+  "versionCode": 97,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.30/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "אפשר לרשום לקוחות עם מספר טלפון מחוץ לישראל (למשל +7), כולל שליחת קישור וקוד כניסה בוואטסאפ. מספרי 05 בארץ נשארים כמו שהיו. במסך הבית: כרטיס גדול לתור הבא (שיחה, וואטסאפ, הגיעה) וכפתור קבוע לתור חדש. לפני ביטול או מחיקה מופיעה שאלה ברורה, ואפשר לבטל את הפעולה לכמה שניות. העוזרת הקולית חוזרת על מה שהבינה וממתינה לאישור. כפתורים גדולים יותר, טקסט שמתאים לגודל הגופן בטלפון, וניגודיות חזקה יותר עם סימון ברור ללשונית הפעילה. מזג האוויר מוצג למעלה, וליד תור מופיע סמל רק אם צפוי גשם או חום קיצוני.",
-    "ru": "Можно сохранять клиентов с иностранным номером (например +7), включая ссылку и код входа в WhatsApp. Израильские номера 05x работают как раньше. На главной: большая карточка следующей записи (звонок, WhatsApp, «Прибыла») и постоянная кнопка новой записи. Перед отменой или удалением — понятный вопрос, действие можно отменить несколько секунд. Голосовой помощник повторяет, что понял, и ждёт подтверждения. Кнопки крупнее, текст следует размеру шрифта телефона, контраст сильнее, активная вкладка отмечена чётче. Погода сверху; у записи значок только при дожде или сильной жаре.",
-    "en": "Inna can enter client phone numbers from outside Israel (for example +7), including the WhatsApp link and login code. Israeli 05x numbers work as before. Home shows a large next-appointment card (call, WhatsApp, Arrived) and a fixed new-appointment button. Before cancel or delete, a clear confirmation appears, and the action can be undone for a few seconds. The voice assistant repeats what it understood and waits for confirmation. Buttons are larger, text follows the phone font size, and contrast is stronger, with a clearer mark on the active tab. Weather is at the top; an icon appears next to an appointment only if rain or extreme heat is expected."
+    "he": "חזרה למראה הקודם שאהבנו: הצבעים הוורודים הקודמים במקום הצבע החום, והלשוניות למטה כמו פעם, עם מסגרת דקה בין לשונית ללשונית. הלשונית הפעילה מסומנת בעדינות וברור: רקע ורוד בהיר, שם מודגש וקו קטן מתחת. כל החידושים של 3.7.29 נשארים: כרטיס התור הבא, מספרים מחו\"ל, שאלה לפני ביטול או מחיקה עם אפשרות לבטל, העוזרת הקולית שחוזרת על מה שהבינה, ומזג האוויר.",
+    "ru": "Возвращён прежний вид: прежние розовые цвета вместо коричневого и нижние вкладки как раньше, с тонкой рамкой между вкладками. Активная вкладка отмечена мягко, но чётко: светло-розовый фон, жирная подпись и небольшая черта снизу. Все новшества 3.7.29 сохранены: карточка следующей записи, иностранные номера, вопрос перед отменой или удалением с возможностью отмены, голосовой помощник повторяет понятое, погода.",
+    "en": "The previous look is back: the earlier pink colors instead of the brown, and the bottom tabs as before, with a thin frame between tabs. The active tab is marked subtly but clearly: light pink background, bold label and a small underline. All 3.7.29 features stay: next-appointment card, international numbers, confirmation before cancel or delete with Undo, voice assistant repeats what it understood, weather."
   },
-  "sha256": "11c9dafb2e4a1209fb416330a58b8db1e0d0ac8743ddf0f53fb33ea7a8681317",
-  "date": "2026-11-22",
+  "sha256": "6a5bdb9558fada440c244dd2555177b4be9e4f085e0e0846b8e5ab545f28029e",
+  "date": "2026-11-23",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
