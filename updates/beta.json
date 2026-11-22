@@ -8,7 +8,7 @@
     "ru": "Можно сохранять клиентов с иностранным номером (например +7), включая ссылку и код входа в WhatsApp. Израильские номера 05x работают как раньше. На главной: большая карточка следующей записи (звонок, WhatsApp, «Прибыла») и постоянная кнопка новой записи. Перед отменой или удалением — понятный вопрос, действие можно отменить несколько секунд. Голосовой помощник повторяет, что понял, и ждёт подтверждения. Кнопки крупнее, текст следует размеру шрифта телефона, контраст сильнее, активная вкладка отмечена чётче. Погода сверху; у записи значок только при дожде или сильной жаре.",
     "en": "Inna can enter client phone numbers from outside Israel (for example +7), including the WhatsApp link and login code. Israeli 05x numbers work as before. Home shows a large next-appointment card (call, WhatsApp, Arrived) and a fixed new-appointment button. Before cancel or delete, a clear confirmation appears, and the action can be undone for a few seconds. The voice assistant repeats what it understood and waits for confirmation. Buttons are larger, text follows the phone font size, and contrast is stronger, with a clearer mark on the active tab. Weather is at the top; an icon appears next to an appointment only if rain or extreme heat is expected."
   },
-  "sha256": "1f4acd47be19d196d9982b93a977b40bbb7d62a6cae61a86c9f60aac7bb919d7",
+  "sha256": "11c9dafb2e4a1209fb416330a58b8db1e0d0ac8743ddf0f53fb33ea7a8681317",
   "date": "2026-11-22",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
