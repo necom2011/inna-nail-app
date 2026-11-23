@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.7.31",
-  "versionCode": 98,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.31/INNA-NAIL-MASTER.apk",
+  "version": "3.7.32",
+  "versionCode": 99,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.32/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "תיקון: הכפתור הירוק \"שליחת תזכורת\" בכרטיסי התורים (היום / מחר / יומן) מופיע עכשיו בשורה משלו ברוחב מלא, והכיתוב המלא נראה בכל השפות ובכל גודל טקסט – בלי חיתוך ובלי עלייה על כפתורי השפה, החיוג והוואטסאפ. כל השאר כמו ב-3.7.30.",
-    "ru": "Исправление: зелёная кнопка «Отправить напоминание» в карточках записей (Сегодня / Завтра / Календарь) теперь стоит в отдельной строке на всю ширину, и подпись видна целиком на всех языках и при любом размере текста – без обрезки и без наложения на кнопки языка, звонка и WhatsApp. Всё остальное как в 3.7.30.",
-    "en": "Fix: the green \"Send reminder\" button on appointment cards (Today / Tomorrow / Calendar) now has its own full-width row, so the whole label is visible in every language and text size – no clipping and no overlap with the language, call and WhatsApp buttons. Everything else is as in 3.7.30."
+    "he": "חדש: סימון ♀/♂ ליד שם הלקוח/ה (בכרטיסי התורים, ברשימת הלקוחות ובכרטיס הלקוח) ושדה מגדר בעריכת לקוח – גם נוסח אפליקציית הלקוחות מתאים את עצמו. תג \"מאחרת / מאחר 10 דקות\" על התור של היום כשהלקוח/ה מודיע/ה באפליקציה. בקשת ביטול חריגה (פחות מ-24 שעות לתור): התראה אדומה בראש המסך הראשי ומסגרת אדומה על התור, עם \"לאשר ביטול\" או \"לדחות – התור נשאר\"; כפתור שליחת התזכורת מוסתר על התור הזה עד שמחליטים. בבקשת הזזת תור: מועדים פנויים קרובים למועד המבוקש, להעברה בלחיצה אחת. הלקוחות רואים \"נקראה\" כשהבקשה הופיעה אצלך ו\"נענתה\" כשענית. התזכורת באפליקציית הלקוחות נשלחת פעם אחת, כ-24 שעות לפני התור, רק בין 08:00 ל-20:00.",
+    "ru": "Новое: значок ♀/♂ рядом с именем клиента (в карточках записей, в списке клиентов и в карточке клиента) и поле «Пол» при редактировании клиента – приложение клиентов тоже подстраивает текст. Метка «Опаздывает на 10 мин» на сегодняшней записи, когда клиент сообщает об этом в приложении. Исключительная просьба об отмене (меньше 24 ч до записи): красное уведомление вверху главного экрана и красная рамка на записи с кнопками «Подтвердить отмену» / «Отклонить – запись остаётся»; кнопка напоминания на этой записи скрыта, пока вы не решите. В запросе на перенос – ближайшее свободное время к желаемому, перенос одним нажатием. Клиенты видят «Прочитано», когда запрос появился у вас, и «Отвечено», когда вы ответили. Напоминание в приложении клиентов – одно, примерно за 24 ч до записи, только с 08:00 до 20:00.",
+    "en": "New: a ♀/♂ marker next to the client's name (appointment cards, client list, client card) and a gender field when editing a client – the client app adapts its wording too. A \"Running 10 min late\" badge on today's appointment when the client says so in the app. Exceptional cancellation request (less than 24 h before): a red alert at the top of the home screen and a red frame on the appointment with \"Approve cancellation\" / \"Decline – the appointment stays\"; the send-reminder button on that appointment is hidden until you decide. Move requests show the nearest free times to the requested one – move with one tap. Clients see \"Read\" once the request appeared on your screen and \"Answered\" once you replied. The client-app reminder is sent once, about 24 h before the appointment, only between 08:00 and 20:00."
   },
-  "sha256": "317a553ff70bb171186d9deecb37cb5e5d67d25bad01c5389e6c74a849c4ab61",
+  "sha256": "23b3abf34480a42822e77a9c1fcee7c49d6dae946c429d0a7c9d8675cb363f13",
   "date": "2026-11-23",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
