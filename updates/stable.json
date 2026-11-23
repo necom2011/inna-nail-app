@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.7.30",
-  "versionCode": 97,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.30/INNA-NAIL-MASTER.apk",
+  "version": "3.7.31",
+  "versionCode": 98,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.31/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "חזרה למראה הקודם שאהבנו: הצבעים הוורודים הקודמים במקום הצבע החום, והלשוניות למטה כמו פעם, עם מסגרת דקה בין לשונית ללשונית. הלשונית הפעילה מסומנת בעדינות וברור: רקע ורוד בהיר, שם מודגש וקו קטן מתחת. כל החידושים של 3.7.29 נשארים: כרטיס התור הבא, מספרים מחו\"ל, שאלה לפני ביטול או מחיקה עם אפשרות לבטל, העוזרת הקולית שחוזרת על מה שהבינה, ומזג האוויר.",
-    "ru": "Возвращён прежний вид: прежние розовые цвета вместо коричневого и нижние вкладки как раньше, с тонкой рамкой между вкладками. Активная вкладка отмечена мягко, но чётко: светло-розовый фон, жирная подпись и небольшая черта снизу. Все новшества 3.7.29 сохранены: карточка следующей записи, иностранные номера, вопрос перед отменой или удалением с возможностью отмены, голосовой помощник повторяет понятое, погода.",
-    "en": "The previous look is back: the earlier pink colors instead of the brown, and the bottom tabs as before, with a thin frame between tabs. The active tab is marked subtly but clearly: light pink background, bold label and a small underline. All 3.7.29 features stay: next-appointment card, international numbers, confirmation before cancel or delete with Undo, voice assistant repeats what it understood, weather."
+    "he": "תיקון: הכפתור הירוק \"שליחת תזכורת\" בכרטיסי התורים (היום / מחר / יומן) מופיע עכשיו בשורה משלו ברוחב מלא, והכיתוב המלא נראה בכל השפות ובכל גודל טקסט – בלי חיתוך ובלי עלייה על כפתורי השפה, החיוג והוואטסאפ. כל השאר כמו ב-3.7.30.",
+    "ru": "Исправление: зелёная кнопка «Отправить напоминание» в карточках записей (Сегодня / Завтра / Календарь) теперь стоит в отдельной строке на всю ширину, и подпись видна целиком на всех языках и при любом размере текста – без обрезки и без наложения на кнопки языка, звонка и WhatsApp. Всё остальное как в 3.7.30.",
+    "en": "Fix: the green \"Send reminder\" button on appointment cards (Today / Tomorrow / Calendar) now has its own full-width row, so the whole label is visible in every language and text size – no clipping and no overlap with the language, call and WhatsApp buttons. Everything else is as in 3.7.30."
   },
-  "sha256": "6a5bdb9558fada440c244dd2555177b4be9e4f085e0e0846b8e5ab545f28029e",
+  "sha256": "317a553ff70bb171186d9deecb37cb5e5d67d25bad01c5389e6c74a849c4ab61",
   "date": "2026-11-23",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
