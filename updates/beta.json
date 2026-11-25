@@ -1,14 +1,14 @@
 {
   "channel": "beta",
-  "version": "3.7.33",
-  "versionCode": 100,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.33/INNA-NAIL-MASTER.apk",
+  "version": "3.7.34",
+  "versionCode": 101,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.34/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "חדש: אירוע אישי ישירות מ\"תור חדש\" – כפתור \"📌 אירוע אישי\" בכותרת פותח את אותו חלון של אירוע אישי, עם התאריך והשעה שבחרת. במצב \"חוסם זמן\" מוצגות שעות פנויות לבחירה בלחיצה. כפתור \"אירוע אישי\" חזר לראש המסך הראשי. בתצוגת שבוע וחודש רואים את שם האירוע המלא. בהגדרות: \"היסטוריית אירועים אישיים\" – נפרדת מיומן התורים והמחיקות.",
-    "ru": "Новое: личное событие прямо из «Новой записи» – кнопка «📌 Личное событие» в заголовке открывает то же окно личного события с выбранными датой и временем. В режиме «блокирует время» показываются свободные часы – выбор одним нажатием. Кнопка «Личное событие» снова вверху главного экрана. В неделе и месяце видно полное название события. В настройках: «История личных событий» – отдельно от журнала записей и удалений.",
-    "en": "New: a personal event straight from \"New appointment\" – the \"📌 Personal event\" button in the header opens the same personal-event sheet with the date and time you picked. In \"blocks time\" mode free times are listed – pick one with a tap. The \"Personal event\" button is back at the top of the home screen. Week and month views show the full event title. In Settings: \"Personal events history\" – separate from the appointment and deletion logs."
+    "he": "בלשונית מחר: אם הרשימה היא ליום אחר (למשל ביום שישי מוצג יום ראשון), היום והתאריך זוהרים עם עיגול ורוד מסביב – כדי שיהיה ברור שזה לא מחר.",
+    "ru": "Во вкладке «Завтра»: если список на другой день (например в пятницу показан список на воскресенье), день и дата подсвечиваются розовым контуром-овалом, чтобы было видно, что это не завтра.",
+    "en": "On the Tomorrow tab: if the list is for another day (for example Friday showing Sunday), the day and date glow with a pink pill outline, so it is clear the list is not for tomorrow."
   },
-  "sha256": "7e300686b440e65f76225807fb26b7b36183e147887c53c1942b61f7504aa5c1",
+  "sha256": "51674e1dc3e434f2ef4344d22d2370a2c37273c84b12f752b1464767d5ef1ce5",
   "date": "2026-11-25",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
