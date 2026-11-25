@@ -1,14 +1,14 @@
 {
   "channel": "stable",
-  "version": "3.7.32",
-  "versionCode": 99,
-  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.32/INNA-NAIL-MASTER.apk",
+  "version": "3.7.33",
+  "versionCode": 100,
+  "apkUrl": "https://github.com/necom2011/inna-nail-app/releases/download/v3.7.33/INNA-NAIL-MASTER.apk",
   "notes": {
-    "he": "חדש: סימון ♀/♂ ליד שם הלקוח/ה (בכרטיסי התורים, ברשימת הלקוחות ובכרטיס הלקוח) ושדה מגדר בעריכת לקוח – גם נוסח אפליקציית הלקוחות מתאים את עצמו. תג \"מאחרת / מאחר 10 דקות\" על התור של היום כשהלקוח/ה מודיע/ה באפליקציה. בקשת ביטול חריגה (פחות מ-24 שעות לתור): התראה אדומה בראש המסך הראשי ומסגרת אדומה על התור, עם \"לאשר ביטול\" או \"לדחות – התור נשאר\"; כפתור שליחת התזכורת מוסתר על התור הזה עד שמחליטים. בבקשת הזזת תור: מועדים פנויים קרובים למועד המבוקש, להעברה בלחיצה אחת. הלקוחות רואים \"נקראה\" כשהבקשה הופיעה אצלך ו\"נענתה\" כשענית. התזכורת באפליקציית הלקוחות נשלחת פעם אחת, כ-24 שעות לפני התור, רק בין 08:00 ל-20:00.",
-    "ru": "Новое: значок ♀/♂ рядом с именем клиента (в карточках записей, в списке клиентов и в карточке клиента) и поле «Пол» при редактировании клиента – приложение клиентов тоже подстраивает текст. Метка «Опаздывает на 10 мин» на сегодняшней записи, когда клиент сообщает об этом в приложении. Исключительная просьба об отмене (меньше 24 ч до записи): красное уведомление вверху главного экрана и красная рамка на записи с кнопками «Подтвердить отмену» / «Отклонить – запись остаётся»; кнопка напоминания на этой записи скрыта, пока вы не решите. В запросе на перенос – ближайшее свободное время к желаемому, перенос одним нажатием. Клиенты видят «Прочитано», когда запрос появился у вас, и «Отвечено», когда вы ответили. Напоминание в приложении клиентов – одно, примерно за 24 ч до записи, только с 08:00 до 20:00.",
-    "en": "New: a ♀/♂ marker next to the client's name (appointment cards, client list, client card) and a gender field when editing a client – the client app adapts its wording too. A \"Running 10 min late\" badge on today's appointment when the client says so in the app. Exceptional cancellation request (less than 24 h before): a red alert at the top of the home screen and a red frame on the appointment with \"Approve cancellation\" / \"Decline – the appointment stays\"; the send-reminder button on that appointment is hidden until you decide. Move requests show the nearest free times to the requested one – move with one tap. Clients see \"Read\" once the request appeared on your screen and \"Answered\" once you replied. The client-app reminder is sent once, about 24 h before the appointment, only between 08:00 and 20:00."
+    "he": "חדש: אירוע אישי ישירות מ\"תור חדש\" – כפתור \"📌 אירוע אישי\" בכותרת פותח את אותו חלון של אירוע אישי, עם התאריך והשעה שבחרת. במצב \"חוסם זמן\" מוצגות שעות פנויות לבחירה בלחיצה. כפתור \"אירוע אישי\" חזר לראש המסך הראשי. בתצוגת שבוע וחודש רואים את שם האירוע המלא. בהגדרות: \"היסטוריית אירועים אישיים\" – נפרדת מיומן התורים והמחיקות.",
+    "ru": "Новое: личное событие прямо из «Новой записи» – кнопка «📌 Личное событие» в заголовке открывает то же окно личного события с выбранными датой и временем. В режиме «блокирует время» показываются свободные часы – выбор одним нажатием. Кнопка «Личное событие» снова вверху главного экрана. В неделе и месяце видно полное название события. В настройках: «История личных событий» – отдельно от журнала записей и удалений.",
+    "en": "New: a personal event straight from \"New appointment\" – the \"📌 Personal event\" button in the header opens the same personal-event sheet with the date and time you picked. In \"blocks time\" mode free times are listed – pick one with a tap. The \"Personal event\" button is back at the top of the home screen. Week and month views show the full event title. In Settings: \"Personal events history\" – separate from the appointment and deletion logs."
   },
-  "sha256": "23b3abf34480a42822e77a9c1fcee7c49d6dae946c429d0a7c9d8675cb363f13",
-  "date": "2026-11-23",
+  "sha256": "7e300686b440e65f76225807fb26b7b36183e147887c53c1942b61f7504aa5c1",
+  "date": "2026-11-25",
   "copyright": "© 2026 Stanislav Ivanov. All rights reserved. inna-nail-app"
 }
